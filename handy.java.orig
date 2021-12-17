@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+public class Handy{
+    private String _brand;
+    
+}
+=======
+public class Handy{
+
+  private int _handyid;
+
+}
+>>>>>>> 528eaf22fb5d638f18db061ad720b58260f3aa93
