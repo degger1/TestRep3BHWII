@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+public class Person{
+    private String _name;
+    private int _age;
+    private boolean _isFemale;
+}
+=======
+public class Person {
+    private String _name;
+    private int _age;
+    private char _gender;
+    }
+>>>>>>> 9bfc18c8885484d2a77486ebb65383bb610428c3
